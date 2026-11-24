@@ -12,3 +12,26 @@ MODIS MCD64A1 ya está disponible para julio de 2026; si no, decidlo en la prese
 Cuidado con: el incendio se unió o quedó muy cerca del de Madrid y Toledo: definid desde el principio si
 estudiáis solo la parte abulense o el conjunto. El evento es muy reciente: contrastad fechas con al menos dos
 fuentes.
+
+
+## Fechas
+
+El incendio se decaro el 22 julio, las primeras chispas en copernico se ven el día 16, por lo que usaremos '2026-07-1', '2026-07-16' para el PRE.
+
+Fue estabilizado el 6 de agosto y controlado el sábado 15 de agosto por lo que usaremos el '2026-08-16','2026-09-01' para el POST
+
+## Reportado por la prensa
+
+La superficie quemada se calcula en 37.800 hectáreas
+
+Alcanzó una severidad máxima histórica al declararse el Nivel 3 de gravedad (emergencia de interés nacional), el 24 de julio de 2026, el Boletín Oficial del Estado (BOE) publicó la declaración de nivel 3
+
+## Fuente oficiales:
+
+### De superficie quemada
+https://comunicacion.jcyl.es/web/jcyl/Comunicacion/es/Plantilla100Detalle/1284721258244/NotaPrensa/1285672687578/Comunicacion
+
+### De fechas clave
+https://www.miteco.gob.es/es/prensa/ultimas-noticias/2026/septiembre/el-miteco-habilita-un-informe-interactivo-con-los-datos-de-los-i.html
+
+https://www.dsn.gob.es/en/node/32742
